@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sharma/Downloads/AndroidPDFDemo-master/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/sharma/Downloads/AndroidPDFDemo-master/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sharma/Downloads/AndroidPDFDemo-master/build/intermediates/res/merged/debug/drawable-hdpi-v4/ahsan.jpg",
+        "source": "/home/sharma/Downloads/AndroidPDFDemo-master/res/drawable-hdpi/ahsan.jpg"
+    },
+    {
+        "merged": "/home/sharma/Downloads/AndroidPDFDemo-master/build/intermediates/res/merged/debug/drawable-hdpi-v4/android.jpg",
+        "source": "/home/sharma/Downloads/AndroidPDFDemo-master/res/drawable-hdpi/android.jpg"
+    }
+]
